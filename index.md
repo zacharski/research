@@ -24,3 +24,23 @@ We talked briefly about what could be done with the cluster. Learning or Using H
 ### Recent student papers at other universities
 
 * Stanford's Deep Learning for Natural Language Processing Course [2015](http://cs224d.stanford.edu/reports_2015.html) and [2016](http://cs224d.stanford.edu/reports_2016.html)
+
+
+### notes from 21 Sept 2017
+
+Possible research areas include:
+
+* sentiment analysis
+* authorship
+* genre classification.  
+* semantic similarity -- Large Scale Multi-label Text Classification
+* poetry 
+
+Also talked about bootstrapping systems.
+
+### Poetry 
+[Google's AI has written some amazingly mournful poetry](http://www.wired.co.uk/article/google-artificial-intelligence-poetry)
+bootstrapping unlabeled text.   -- http://cs224d.stanford.edu/reports/SanbornAdrian.pdf
+
+
+
