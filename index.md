@@ -47,6 +47,11 @@ bootstrapping unlabeled text.   -- http://cs224d.stanford.edu/reports/SanbornAdr
 
 
 
+## TensorFlow
+What the Google Poetry effort and many if not all of the Stanford papers have in common is that they use TensorFlow. For example, [here](https://www.tensorflow.org/tutorials/recurrent) is an interesting article on using TensorFlow for Recurrent Neural Networks.  It is worth considering making that a core component of the individual study.
+
+
+
 ## [New Book](book)
 
 
