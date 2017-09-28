@@ -39,7 +39,10 @@ Possible research areas include:
 Also talked about bootstrapping systems.
 
 ### Poetry 
-[Google's AI has written some amazingly mournful poetry](http://www.wired.co.uk/article/google-artificial-intelligence-poetry)
+#### Google's effort
+* [Google's AI has written some amazingly mournful poetry](http://www.wired.co.uk/article/google-artificial-intelligence-poetry)
+* [Google AI project writes poetry which could make a Vogon proud](https://www.theguardian.com/technology/2016/may/17/googles-ai-write-poetry-stark-dramatic-vogons)
+* Different Google Effort [AI Poetry Hits the Road](https://medium.com/artists-and-machine-intelligence/ai-poetry-hits-the-road-eb685dfc1544)
 bootstrapping unlabeled text.   -- http://cs224d.stanford.edu/reports/SanbornAdrian.pdf
 
 
