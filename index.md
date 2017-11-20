@@ -1,3 +1,8 @@
+
+
+
+
+
 # Thoughts on Machine Learning
 
  [editor on GitHub](https://github.com/zacharski/research/edit/master/index.md) 
@@ -53,5 +58,5 @@ What the Google Poetry effort and many if not all of the Stanford papers have in
 
 
 ## [New Book](book)
-
+## [Meetings with Claire](claire)
 
