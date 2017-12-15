@@ -18,5 +18,8 @@
 * [TensorFlow for Deep Learning](http://shop.oreilly.com/product/0636920065869.do) - Reza Zadeh, Bharath Ramsundar
 * [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
+## [Stanford Course: Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+
 #### [Meetings with Claire](claire)
 
